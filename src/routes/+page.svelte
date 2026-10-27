@@ -126,7 +126,6 @@
     overflow: hidden;
     height: 88px;
     border-radius: 12px;
-    background: #0b0b0f;
     -webkit-mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent);
     mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent);
   }
@@ -144,6 +143,7 @@
     font: 600 1rem/1 system-ui, sans-serif;
     color: #fff;
     transition: filter 180ms ease;
+    border-radius: 15px;
   }
 
   .cell.active {
