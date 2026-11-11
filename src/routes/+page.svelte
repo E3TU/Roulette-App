@@ -225,8 +225,8 @@
     border: 0;
     border-radius: 999px;
     font: 600 1rem/1 system-ui, sans-serif;
-    background: #f5c542;
-    color: #000;
+    background: #00b606;
+    color: #fff;
     cursor: pointer;
   }
   button:disabled {
